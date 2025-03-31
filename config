@@ -49,3 +49,6 @@ cursor-style = block
 shell-integration-features = no-cursor
 macos-option-as-alt = true
 link-url = true
+
+keybind = ctrl+shift+right=next_tab
+keybind = ctrl+shift+left=previous_tab
