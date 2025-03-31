@@ -47,3 +47,5 @@ theme = "Tomorrow Night"
 
 cursor-style = block
 shell-integration-features = no-cursor
+macos-option-as-alt = true
+link-url = true
